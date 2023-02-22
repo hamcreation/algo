@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "git@github.com:hamcreation/algo.git"
+    ]
+}
